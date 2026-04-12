@@ -2426,7 +2426,7 @@ main_menu() {
 #  SETUP COMMAND 'menu'
 # ════════════════════════════════════════════════════════════
 setup_menu_cmd() {
-    local SCRIPT_URL="https://raw.githubusercontent.com/chanelog/Socks/main/ogh-ziv.sh"
+    local SCRIPT_URL="https://raw.githubusercontent.com/chanelog/cek/main/ogh-ziv.sh"
 
     # Hapus file lama dulu supaya tidak pakai versi lama
     rm -f /usr/local/bin/ogh-ziv /usr/local/bin/menu 2>/dev/null
