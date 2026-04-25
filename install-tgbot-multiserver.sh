@@ -273,7 +273,7 @@ EOF
   echo -e "  ${Y}⚠️  LANGKAH SELANJUTNYA:${N}"
   echo -e "  Untuk setiap VPS remote, login dan jalankan:"
   echo ""
-  echo -e "  ${W}bash <(curl -Ls https://raw.githubusercontent.com/chanelog/Socks/main/install-tgbot-multiserver.sh)${N}"
+  echo -e "  ${W}bash <(curl -Ls https://raw.githubusercontent.com/chanelog/cek/main/install-tgbot-multiserver.sh)${N}"
   echo ""
   echo -e "  Pilih ${W}[2] VPS Worker${N}, masukkan API Key yang sudah dicatat."
   echo ""
